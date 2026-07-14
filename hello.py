@@ -1,1 +1,1 @@
-print("Hello Git! I am learning version control.")
+print("Hello Git! I am becoming a programmer.")
