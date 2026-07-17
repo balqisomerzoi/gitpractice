@@ -9,8 +9,12 @@ print("this is from teh lines branch")
 print("learning pull requests")
 print("this was added from the main branch")
 print("line one added")
+<<<<<<< HEAD
 print("Heloo github")
 print("line 2 added")
 print("to practive github issues")
 print("new line added")
 print("working")
+=======
+print("line 2 added")
+>>>>>>> parent of ee84067 (3 line added)
