@@ -7,11 +7,7 @@ print("this is from anothe branch")
 print("another line added from the testing branch")
 print("this is from teh lines branch")
 print("learning pull requests")
-<<<<<<< HEAD
 print("this was added from the main branch")
 print("line one added")
 print("line 2 added")
 print("line 3 added")
-=======
-print("this was added from the main branch")
->>>>>>> parent of ce1d1c6 (1 line added)
